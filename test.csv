@@ -1,0 +1,17 @@
+name,ring,quadrant,isNew,description
+Power Apps,Assess,Platforms,FALSE,Power apps blahalala
+CRM 365,Adopt,Platforms,FALSE,baaasdsa 
+Python 3.10,Assess,languages-and-frameworks,FALSE,asdsads aas
+Outsystems,Adopt,Platforms,TRUE,asdsad asdas sa
+GitLab,Hold,Tools,TRUE,assadsadsa asadsad asdsa d
+GitHub Enterprise,Adopt,Tools,TRUE,asdsads a asdsad sadasda
+EASIKit,Trial,Tools,TRUE,
+Pytest,Adopt,languages-and-frameworks,FALSE,
+Behave,Adopt,languages-and-frameworks,TRUE,
+LocalStack,Trial,Tools,FALSE,
+Serverless.com,Hold,Tools,TRUE,
+Poetry,Assess,languages-and-frameworks,TRUE,
+Kubernetes for X,Assess,Platforms,TRUE,
+"Docker-compose for development and testing, not production",Assess,Techniques,FALSE,
+"Atoms, Molecules and Cells for Integration",Adopt,Techniques,TRUE,
+Producer / Consumer for integration,Assess,Techniques,TRUE,
